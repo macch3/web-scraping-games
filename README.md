@@ -1,3 +1,3 @@
-# web-scraping-games
-Web Scraping Games - School Project
+# web-scraping
+Web Scraping Games - School Project 
 
