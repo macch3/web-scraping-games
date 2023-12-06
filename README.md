@@ -2,6 +2,6 @@
 Web Scraping Games - For School Project 
 
 
-Project Discussion and Collaboration
-- If you are interested in discussing this project or collaborating, please feel free to reach out @ githubm03@gmail.com
+Project Discussion
+- If you are interested in discussing this project, please feel free to reach out @ githubm03@gmail.com
 
